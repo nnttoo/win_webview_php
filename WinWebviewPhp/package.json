@@ -1,0 +1,11 @@
+{
+  "name": "winwebviewphp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "php -c php-local.ini src/koffi.php"
+  },
+  "author": "",
+  "license": "ISC"
+}
